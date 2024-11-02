@@ -17,7 +17,7 @@ class SplashPageState extends State<SplashPage> {
     return SafeArea(
       child: Scaffold(
         body: EasySplashScreen(
-          logo: Image.asset('assets/appiconn.png'),
+          logo: Image.asset('assets/icon.png'),
           title: Text(
             'GoalPost',
             style: GoogleFonts.ubuntuCondensed(
