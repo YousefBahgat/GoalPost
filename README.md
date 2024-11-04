@@ -26,7 +26,8 @@ GoalPost delivers the latest updates from the top football clubs in Europe. Stay
 6. google_fonts
 7. intl
    
-
+## Download 
+- Download the App(APK) for android from here: https://drive.google.com/file/d/1YCd2kS0MgjMA_wsn9QAsXTfoj0nuwp9-/view?usp=drive_link
 
 
 
