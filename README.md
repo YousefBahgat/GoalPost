@@ -1,5 +1,9 @@
 # GoalPost
 
+## Demo Video
+
+[![Demo Video](https://raw.githubusercontent.com/YousefBahgat/GoalPost/refs/heads/master/Video-thumbnail.png)](https://drive.google.com/file/d/1Bl4hDb4jRFJLfWD2--aTja-ZEBoctR29/view?usp=sharing)
+
 ## Overview
 GoalPost delivers the latest updates from the top football clubs in Europe. Stay informed about your favorite teams and enjoy the convenience of reading news directly within the app. With a focus on providing timely content, this app covers the latest news from the past 7 days.
 
