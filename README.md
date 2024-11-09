@@ -1,4 +1,4 @@
-# GoalPost
+g# GoalPost
 
 ## Overview
 GoalPost delivers the latest updates from the top football clubs in Europe. Stay informed about your favorite teams and enjoy the convenience of reading news directly within the app. With a focus on providing timely content, this app covers the latest news from the past 7 days.
@@ -29,6 +29,10 @@ GoalPost delivers the latest updates from the top football clubs in Europe. Stay
 5. easy_splash_screen
 6. google_fonts
 7. intl
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
    
 ## Download 
 - Download the App(APK) for android from here: https://drive.google.com/file/d/1YCd2kS0MgjMA_wsn9QAsXTfoj0nuwp9-/view?usp=drive_link
