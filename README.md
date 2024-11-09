@@ -1,4 +1,4 @@
-g# GoalPost
+# GoalPost
 
 ## Overview
 GoalPost delivers the latest updates from the top football clubs in Europe. Stay informed about your favorite teams and enjoy the convenience of reading news directly within the app. With a focus on providing timely content, this app covers the latest news from the past 7 days.
