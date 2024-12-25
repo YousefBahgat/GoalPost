@@ -1,6 +1,7 @@
 //import 'dart:io';
 
 import 'package:dio/dio.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:intl/intl.dart';
 import '../models/article_model.dart';
 
@@ -10,9 +11,12 @@ class NewsService {
   Future<List<ArticleModel>> getFootballNews({required String name}) async {
     String date = getTheDateBeforeSevenDays();
 
+    // Get the API key from environment variables
+    String apiKey = dotenv.env['API_KEY'] ?? 'API_KEY not found';
+
     //get the news from that request url
     Response response = await dio.get(
-        'https://newsapi.org/v2/everything?q=$name&apiKey=af5b0ffa047e41138ab5e63c47ddaa20&from=$date');
+        'https://newsapi.org/v2/everything?q=$name&apiKey=$apiKey&from=$date');
     //note: the datatype is defined based on the response, it could be Map or List.
     Map<String, dynamic> jsonData = response.data;
     List<dynamic> articles = jsonData["articles"];
